@@ -18,8 +18,8 @@ This Project is fully working Without any external errors.
 4) Student Dashbord : ![Student Dashbord](https://user-images.githubusercontent.com/103305922/235343216-e2c9c4c3-a79b-4931-a50e-bdb30f165b19.png)
 
 # Installation :
-1) In Eclipse IDE Import ".WAR" file By 
+1) Eclipse IDE Import ".WAR" file And Apache Tomcat setup :
+https://user-images.githubusercontent.com/103305922/235344107-abb4dfdf-9325-40a3-95bc-d99d47f8b47e.mp4
 
-
-https://user-images.githubusercontent.com/103305922/235343664-694da68e-6955-4a7f-94fd-e37e20188b6a.mp4
+2) XAMPP Server Database Import :
 
