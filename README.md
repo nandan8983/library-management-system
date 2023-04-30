@@ -17,3 +17,9 @@ This Project is fully working Without any external errors.
 3) Admin Panel ![Admin Panel](https://user-images.githubusercontent.com/103305922/235342639-cc530649-8c83-4af6-b9ad-09d21a3abc3d.png)
 4) Student Dashbord : ![Student Dashbord](https://user-images.githubusercontent.com/103305922/235343216-e2c9c4c3-a79b-4931-a50e-bdb30f165b19.png)
 
+# Installation :
+1) In Eclipse IDE Import ".WAR" file By 
+
+
+https://user-images.githubusercontent.com/103305922/235343664-694da68e-6955-4a7f-94fd-e37e20188b6a.mp4
+
